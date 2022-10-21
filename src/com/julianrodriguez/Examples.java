@@ -18,7 +18,7 @@ public class Examples {
 	}
 
 	public void example() {
-
+		int numero;
 	}
 
 }
