@@ -19,7 +19,7 @@ public class Examples {
 
 	public void example() {
 		int numero;
-		String str="Hola GitHub";
+		String str="Hola GitHub Repository mjulianrodriguez";
 	}
 
 }
