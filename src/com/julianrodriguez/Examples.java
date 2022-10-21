@@ -1,5 +1,5 @@
 /**
- *
+ * 
  */
 package com.julianrodriguez;
 
@@ -14,8 +14,6 @@ public class Examples {
 	 */
 	public static void main(String[] args) {
 
-
-		int numero;
 
 	}
 
